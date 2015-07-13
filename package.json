@@ -1,0 +1,23 @@
+{
+  "name": "to-csv",
+  "version": "0.1.0",
+  "description": "Convert nested arrays to CSV format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/to-csv"
+  },
+  "keywords": [
+    "csv",
+    "convert"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/to-csv/issues"
+  },
+  "homepage": "https://github.com/weo-edu/to-csv"
+}

@@ -5,5 +5,6 @@ module.exports = function(rows) {
 }
 
 function escapeStr (str) {
+  str = str || ''
   return '"' + str.replace('"', '""') + '"'
 }

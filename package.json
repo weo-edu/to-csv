@@ -1,6 +1,6 @@
 {
   "name": "to-csv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert nested arrays to CSV format",
   "main": "index.js",
   "scripts": {
